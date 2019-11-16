@@ -1,0 +1,15 @@
+#
+# ADDITIONAL_DEFAULT_PROPERTIES
+#
+ro.secure=1
+security.perf_harden=1
+ro.adb.secure=1
+ro.allow.mock.location=0
+ro.debuggable=0
+#
+# BOOTIMAGE_BUILD_PROPERTIES
+#
+ro.bootimage.build.date=2019年 05月 27日 星期一 10:05:40 CST
+ro.bootimage.build.date.utc=1558922740
+ro.bootimage.build.fingerprint=DOOGEE/X90/X90:8.1.0/O11019/1558407864:user/release-keys
+persist.sys.usb.config=none
